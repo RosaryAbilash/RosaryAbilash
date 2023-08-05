@@ -4,13 +4,12 @@
 </h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20Coder;Python%20Programmer&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Coder;Python%20Programmer&center=true&width=500&height=50">
 </p>
 
 ## 👩 About me:
 <p>
-  I am a fast learner, a passionate competitive coder and a Python Developer having keen interest in Machine Learning. I have experience in Algorithms, Data Structures, Web Development, etc. I love to experiment with new technologies. Subtract work from the day, I am always down for a chat over a cup of coffee or binge-watching any series on YouTube.<br>
-Currently I am looking forward to opportunities which allow me to apply my problem solving and logical thinking abilities to the real world scenarios and solve real world problems.
+  I possess a quick learning ability and thrive on challenges as a dedicated competitive coder and Python Developer with a strong passion for Machine Learning.I'm enthusiastic about exploring new technologies. I am actively seeking opportunities that enable me to translate my problem-solving skills and logical thinking into practical solutions for real-world challenges. My goal is to apply my abilities to address genuine issues and contribute positively to various scenarios.
 </p><br>
 
 <h2>🥇 Specialised in:</h2>
