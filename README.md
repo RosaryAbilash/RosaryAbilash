@@ -4,9 +4,8 @@
 </h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Coder;Python%20Programmer&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Python%20Programmer&center=true&width=500&height=50">
 </p>
-
 ## 👩 About me:
 <p>
   I possess a quick learning ability and thrive on challenges as a dedicated competitive coder and Python Developer with a strong passion for Machine Learning.I'm enthusiastic about exploring new technologies. I am actively seeking opportunities that enable me to translate my problem-solving skills and logical thinking into practical solutions for real-world challenges. My goal is to apply my abilities to address genuine issues and contribute positively to various scenarios.
@@ -15,8 +14,8 @@
 <h2>🥇 Specialised in:</h2>
 <p>🔸 Python Development
 <br>
- 
- 
+
+
  ## 🙋‍♂️ Connect with me:
 <!-- Badges template - https://github.com/badges/shields -->
 <p align="center">
