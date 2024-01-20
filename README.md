@@ -13,6 +13,7 @@
 
 <h2>🥇 Specialised in:</h2>
 <p>🔸 Python Development
+<p>🔸 Machine Learning
 <br>
 
 
